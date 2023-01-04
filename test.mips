@@ -1,0 +1,4 @@
+addi $t1, $t0 , 10 ;
+addi $s5, $s5, 1 ;
+print $s5 ;
+bnq $t1, $s5 , -3 ; 
